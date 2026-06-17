@@ -1,5 +1,3 @@
-This version is cleaner, more professional, and tailored to your internship project.
-
 Email Service Integration API
 
 Overview
@@ -243,5 +241,3 @@ Project Status
 * Email Logging Working
 * Swagger Documentation Available
 * GitHub Repository Published
-
-This is the kind of README that looks polished and professional for an internship submission. 🚀
